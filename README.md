@@ -55,7 +55,6 @@ Some things to be cognizent of:
 
 1. add it to project-status
 2. generate a couple badges
-3. replace this repo's `.eslintrc` with something extending itself
 
 </details>
 <br/>

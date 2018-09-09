@@ -16,6 +16,20 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
+"@brightsole/eslint-config-lint-front@^0.0.0":
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/@brightsole/eslint-config-lint-front/-/eslint-config-lint-front-0.0.0.tgz#8f421e947a8ff0fa8c35b4c717a5386c23ac686d"
+  dependencies:
+    eslint "^5.5.0"
+    eslint-config-airbnb "^17.1.0"
+    eslint-config-prettier "^3.0.1"
+    eslint-plugin-better-styled-components "^1.1.1"
+    eslint-plugin-import "^2.14.0"
+    eslint-plugin-jsx-a11y "^6.1.1"
+    eslint-plugin-prettier "^2.6.2"
+    eslint-plugin-react "^7.11.1"
+    prettier "^1.14.2"
+
 acorn-jsx@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-4.1.1.tgz#e8e41e48ea2fe0c896740610ab6a4ffd8add225e"
