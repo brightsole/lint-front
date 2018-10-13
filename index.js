@@ -3,11 +3,17 @@ module.exports = {
   extends: ['airbnb', 'prettier'],
   globals: {
     document: true,
-    window: true,
-    React: true,
     describe: true,
+    window: true,
     expect: true,
+    React: true,
+    test: true,
     it: true,
+  },
+  settings: {
+    'import/resolver': {
+      'babel-module': {},
+    },
   },
   rules: {
     'better-styled-components/sort-declarations-alphabetically': 2,
