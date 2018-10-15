@@ -6,6 +6,7 @@ module.exports = {
     describe: true,
     window: true,
     expect: true,
+    render: true,
     React: true,
     test: true,
     it: true,
