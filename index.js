@@ -1,6 +1,7 @@
 module.exports = {
   plugins: ['prettier', 'better-styled-components'],
   extends: ['airbnb', 'prettier'],
+  parser: 'babel-eslint',
   globals: {
     document: true,
     describe: true,
