@@ -1,6 +1,6 @@
 {
   "name": "@brightsole/eslint-config-lint-front",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "eslint & prettier frontend setup",
   "main": "index.js",
   "repository": {
