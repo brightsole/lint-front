@@ -19,7 +19,7 @@ module.exports = {
   },
   rules: {
     'better-styled-components/sort-declarations-alphabetically': 2,
-    'react/jsx-filename-extension': false,
+    'react/jsx-filename-extension': 0,
     quotes: [
       2,
       'single',
@@ -29,7 +29,7 @@ module.exports = {
       },
     ],
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
-    'import/prefer-default-export': false,
+    'import/prefer-default-export': 0,
     'no-nested-ternary': 0,
     'comma-dangle': [2, 'always-multiline'],
     'prettier/prettier': [
