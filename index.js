@@ -31,7 +31,7 @@ module.exports = {
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
     'import/prefer-default-export': 0,
     'no-nested-ternary': 0,
-    'comma-dangle': [2, 'always-multiline'],
+    'comma-dangle': 'off',
     'prettier/prettier': [
       'error',
       {
